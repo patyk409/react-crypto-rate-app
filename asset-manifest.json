@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-crypto-rate-app/static/css/main.37d899ad.chunk.css",
+    "main.js": "/react-crypto-rate-app/static/js/main.2a9c1a7d.chunk.js",
+    "main.js.map": "/react-crypto-rate-app/static/js/main.2a9c1a7d.chunk.js.map",
+    "runtime-main.js": "/react-crypto-rate-app/static/js/runtime-main.77dead06.js",
+    "runtime-main.js.map": "/react-crypto-rate-app/static/js/runtime-main.77dead06.js.map",
+    "static/js/2.2c66fa15.chunk.js": "/react-crypto-rate-app/static/js/2.2c66fa15.chunk.js",
+    "static/js/2.2c66fa15.chunk.js.map": "/react-crypto-rate-app/static/js/2.2c66fa15.chunk.js.map",
+    "static/js/3.41c767c9.chunk.js": "/react-crypto-rate-app/static/js/3.41c767c9.chunk.js",
+    "static/js/3.41c767c9.chunk.js.map": "/react-crypto-rate-app/static/js/3.41c767c9.chunk.js.map",
+    "index.html": "/react-crypto-rate-app/index.html",
+    "static/css/main.37d899ad.chunk.css.map": "/react-crypto-rate-app/static/css/main.37d899ad.chunk.css.map",
+    "static/js/2.2c66fa15.chunk.js.LICENSE.txt": "/react-crypto-rate-app/static/js/2.2c66fa15.chunk.js.LICENSE.txt",
+    "static/media/bitcoin.995f1e67.png": "/react-crypto-rate-app/static/media/bitcoin.995f1e67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77dead06.js",
+    "static/js/2.2c66fa15.chunk.js",
+    "static/css/main.37d899ad.chunk.css",
+    "static/js/main.2a9c1a7d.chunk.js"
+  ]
+}
