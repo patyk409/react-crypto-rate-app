@@ -2,7 +2,7 @@
 This app allows user to check Bitcoin actual price in many currencies, filter them and it is always up to date with market changes.
 
 ## Demo
-Working demo of the project: https://patyk409.github.io/crypto-rate-app/
+Working demo of the project: https://patyk409.github.io/react-crypto-rate-app/
 
 ## Features
 - Fully responsive page on computers and mobile devices
