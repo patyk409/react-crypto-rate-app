@@ -1,0 +1,12 @@
+.Crypto {
+  padding: 40px 0;
+  background-color: #353b46;
+}
+
+.Crypto input {
+  padding: 5px;
+  margin-bottom: 30px;
+  font-size: 18px;
+  border: 4px solid #f2a900;
+  outline: none;
+}

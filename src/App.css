@@ -1,9 +1,12 @@
 .App {
   text-align: center;
+  color: #282C34;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .App-logo {
-  height: 40vmin;
+  padding: 40px 0;
+  height: 200px;
   pointer-events: none;
 }
 
@@ -15,17 +18,19 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App-header h1 {
+  padding-bottom: 40px;
+  margin: 0;
+  font-size: 34px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #fff;
 }
 
 @keyframes App-logo-spin {
